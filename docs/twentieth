@@ -84,40 +84,41 @@
     <li class="page-item"><a class="page-link" href="sixteenth.html">16</a></li>
     <li class="page-item"><a class="page-link" href="seventeenth.html">17</a></li>
     <li class="page-item"><a class="page-link" href="eighteenth.html">18</a></li>
-    <li class="page-item"><a class="page-link" href="nineteenth.html">19</a></li>
+    <li class="page-item "><a class="page-link" href="nineteenth.html">19</a></li>
     <li class="page-item active"><a class="page-link" href="twentieth.html">20</a></li>
+   
   	</ul>
 	</nav>
 	<div class="row center">
 		<div class="col-md">
-			<h3>第二十期</h3>
+			<h3>第十九期</h3>
 			<table class="table table-bordered">
 				<tr>
 				<th scope="row">
-				<a href="http://ericdata.com/tw/detail.aspx?no=415234" target="_blank">新住民教育：與體制的對話與在地實踐</a>
+					<a href="http://ericdata.com/tw/detail.aspx?no=415234" target="_blank">R.Steiner自由哲學思想淵源及教育啟示</a>
 				</th>
-				<td>王淑娟</td>
+				<td>蘇鈺楠</td>
 				</tr>
 				<tr>
 				<th scope="row">
-				<a href="http://ericdata.com/tw/detail.aspx?no=415235" target="_blank">國民小學學生學業樂觀量表建構與實徵分析之研究</a>
+					<a href="http://ericdata.com/tw/detail.aspx?no=415235" target="_blank">國民小學學生學業樂觀量表建構與實徵分析之研究</a>
 				</th>
 				<td>張文權</td>
 				</tr>
 				<tr>
 				<th scope="row">
-				<a href="http://ericdata.com/tw/detail.aspx?no=415236" target="_blank">性少數學生之校園處境—多元文化教育疏漏之景</a>
+					<a href="http://ericdata.com/tw/detail.aspx?no=415236" target="_blank">性少數學生之校園處境—多元文化教育疏漏之景</a>
 				<td>	張藝寶</td>
 				</tr>
-                                <tr>
-                                <th scope="row">
-                                <a href="http://ericdata.com/tw/detail.aspx?no=415237" target="_blank">臺灣原住民大專校院生學門人數分布之研究：以96至105學年度為例</a>
-                                </th>
-                                <td>	樂鍇‧祿璞崚岸、周子琳、洪素蘋、陳雲雀</td>
-                                </tr>
-                                <tr>
+        <tr>
+        <th scope="row">
+          <a href="http://ericdata.com/tw/detail.aspx?no=415237" target="_blank">臺灣原住民大專校院生學門人數分布之研究：以96至105學年度為例</a>
+        </th>
+        <td>	樂鍇‧祿璞崚岸、周子琳、洪素蘋、陳雲雀</td>
+        </tr>
+        <tr>
 				<th scope="row">
-				<a href="http://ericdata.com/tw/detail.aspx?no=415238" target="_blank">論原住民族學校教師族群身分之立法規範妥適性 </a>
+					<a href="http://ericdata.com/tw/detail.aspx?no=415238" target="_blank">論原住民族學校教師族群身分之立法規範妥適性 </a>
 				</th>
 				<td>	曾大千、吳孚佑</td>
 				</tr>
